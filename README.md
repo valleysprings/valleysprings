@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jiawei Zhou (David) 👋</h1>
 
 <p align="center">
-  <strong>Trustworthy AI · Self-Evolving Agents · Agentic RAG · Representation Steering</strong>
+  <strong>Trustworthy AI · Self-Evolving Agents · Agentic RAG · Mechanisms &amp; Dynamics of LLM Training</strong>
 </p>
 
 <p align="center">
@@ -28,7 +28,3 @@ I received my M.S. from **Shanghai Jiao Tong University** and my B.Eng. from **E
 **Recognition:** National Scholarship (2022, 2025) · Outstanding Graduate of SJTU (2026)
 
 I am always happy to discuss research ideas and collaborations—feel free to [get in touch](mailto:shzhoujw@gmail.com).
-
-## GitHub activity
-
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=valleysprings&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)](https://github.com/valleysprings?tab=repositories)
